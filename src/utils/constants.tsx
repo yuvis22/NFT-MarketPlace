@@ -1,7 +1,7 @@
 /** @format */
 
 // constants.tsx
-export const STATIC_ADDRESS = '0x00000000219ab540356cBB839Cbe05303d7705Fa';
+export const STATIC_ADDRESS = '';
 
 export const CHAINS = [
 	'eth',
